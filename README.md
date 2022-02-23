@@ -10,6 +10,7 @@ I have developed the required task on Eclipse with Selenium WebDriver in Java pr
 Furthermore to the tests conducted. I would also check:  
 1. If the average score being graded is correct or not.
 2. If the page is responsive.
-3. If the percentages of customers scoring particular grades is being calculated correctly because in my tests the percentage calculated was greater than 100%.
-4. I would check if the date and time of the comments are matching.
-5. Other than the functionalities, i would also explore the UI/UX for inconsistencies.
+3. If all other links on the page are functional and corresponding to the correct page.
+4. If the percentages of customers scoring particular grades is being calculated correctly because in my tests the percentage calculated was greater than 100%.
+5. I would check if the date and time of the comments are matching.
+6. Other than the functionalities, i would also explore the UI/UX for inconsistencies.
